@@ -12,3 +12,4 @@ C:\vscode\obj\Debug\net9.0\refint\vscode.dll
 C:\vscode\obj\Debug\net9.0\vscode.pdb
 C:\vscode\obj\Debug\net9.0\vscode.genruntimeconfig.cache
 C:\vscode\obj\Debug\net9.0\ref\vscode.dll
+C:\vscode\obj\Debug\net9.0\vscode.sourcelink.json
